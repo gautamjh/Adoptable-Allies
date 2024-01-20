@@ -1,10 +1,10 @@
-# Paws4You
+# Adoptable Allies
 
 Paws4You is a web application aimed at facilitating donations and pet adoption to support animal welfare. It provides a platform for users to make monetary contributions, as well as find and adopt pets from the Paws4You organization. The application consists of separate panels for administrators and regular users, each with their own set of features.
 
 ## Technologies Used
 
-The Paws4You application is built using the following technologies:
+The Adoptanle Allies application is built using the following technologies:
 
 - **React.js**: A JavaScript library for building user interfaces.
 - **Node.js**: A JavaScript runtime environment for server-side development.
@@ -38,7 +38,7 @@ The user panel offers the following features:
 
 To use the Paws4You application, follow these steps:
 
-1. Visit [https://paws4you.netlify.app/](https://paws4you.netlify.app/) in your web browser.
+1. Visit []() in your web browser.
 
 2. If you are an admin, log in to the admin panel using your credentials. If you are a regular user, you can explore the available animals, make donations, and submit queries.
 
@@ -48,5 +48,5 @@ To use the Paws4You application, follow these steps:
 
 ## Deployment
 
-The Paws4You application is deployed on Netlify and can be accessed at [https://paws4you.netlify.app/](https://paws4you.netlify.app/).
+The Paws4You application is deployed on Netlify and can be accessed at ....
 
