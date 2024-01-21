@@ -2,7 +2,6 @@ import { useState } from 'react';
 
 const Input = ({ id, type, placeholder, children }) => {
   const [inputType, setInputType] = useState(type);
-
   const changeType = () => {
     if (inputType === 'password') {
       setInputType('text');
