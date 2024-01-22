@@ -145,6 +145,7 @@ ul {
 }
 
 .header__logo {
+    width: 10vw;
     display: none;
 }
 
@@ -677,7 +678,7 @@ legend {
 
     .header__logo {
         display: block;
-        width: 8rem;
+        width: 15rem;
     }
 
     .header__user {
